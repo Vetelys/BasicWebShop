@@ -1,6 +1,6 @@
-# WebDev1 coursework assignment
-
+# RESTful online shop
 A web shop with vanilla HTML, CSS.
+Implemented as a part of Web Development 1 course in Tampere University.
 RESTful implementation using Node.js and MongoDB as document based database.
 Implements basic CRUD operations and encrypts the saved passwords into hashed values.
 
